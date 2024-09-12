@@ -24,6 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=SmooZy-Tess&style=flat-square&color=green" alt=""/>
 </div>
 
+---
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0946e016-0c44-4cfa-9325-eca6b963a879" width="700" height="400"/>
 </div>
@@ -40,6 +42,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+---
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -53,4 +57,6 @@
 
 ---
 
-### :fire: My Stats :
+### 🥇 My stats and achievements :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmooZy-Tess&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
