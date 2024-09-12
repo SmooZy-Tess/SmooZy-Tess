@@ -24,4 +24,16 @@
   <img src="https://komarev.com/ghpvc/?username=SmooZy-Tess&style=flat-square&color=green" alt=""/>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0946e016-0c44-4cfa-9325-eca6b963a879" width="600" height="300"/>
+</div>
 
+### :man_technologist: About Me :
+
+- 👨‍🎓 I am a first-year student of radio engineering at SPbPU, one of the best universities in Russia. I am fond of programming, writing websites in css, graph.designer.
+
+- 📝 In my free time, I'm just learning to program, and everything else is occupied with studying and books =).
+
+- 🚗 I love Audi, please buy it for me.
+
+- :mailbox:How can you contact me if you want to: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](t.me/VSmooZy)
