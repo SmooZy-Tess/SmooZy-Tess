@@ -24,10 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=SmooZy-Tess&style=flat-square&color=green" alt=""/>
 </div>
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=SmooZy-Tess&theme=dark&background=000000"/>
-</div>
-
 ---
 
 <div align="center">
@@ -63,4 +59,5 @@
 
 ### 🥇 My stats and achievements :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SmooZy-Tess&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmooZy-Tess&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
