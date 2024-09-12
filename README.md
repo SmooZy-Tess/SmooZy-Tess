@@ -6,7 +6,7 @@
   <a href="https://https://www.reddit.com/user/Dear_Deal_9143//" target="_blank">Vlad</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">A student from Russia of SPbPU radio-engineering, who is fond of programming</h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h3 align="center">A student from Russia of SPbPU radio-engineering, who is fond of programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <div id="badges" align="center">
   <a href="https://t.me/smoozyandr">
