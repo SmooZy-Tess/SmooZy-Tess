@@ -8,7 +8,7 @@
 </h1>
 <h3 align="center">A student from Russia of SPbPU radio-engineering, who is fond of programming </h3>
 
-<div id="badges" align="center>
+<div id="badges" align="center">
   <a href="https://t.me/smoozyandr">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,4 +19,4 @@
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=SmooZy-Tess&style=flat-square&color=blue" alt=""/>
