@@ -10,17 +10,17 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/smoozyandr">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.youtube.com/@-SmooZy">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://vk.com/vsmoozy">
-    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
   </a>
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=SmooZy-Tess&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=SmooZy-Tess&style=flat-square&color=green" alt=""/>
 </div>
 
