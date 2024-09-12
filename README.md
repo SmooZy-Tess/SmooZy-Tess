@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.gifdb.com/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="100"/>
-</div>
+![](https://media.gifdb.com/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
 
 <h1 align="center">Hi there, I'm 
   <a href="https://https://www.reddit.com/user/Dear_Deal_9143//" target="_blank">Vlad</a> 
