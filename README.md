@@ -61,6 +61,6 @@
 
 ![SmooZy Stats](https://github-readme-stats.vercel.app/api?username=SmooZy-Tess&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmooZy-Tess&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmooZy-Tess&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmooZy-Tess&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
