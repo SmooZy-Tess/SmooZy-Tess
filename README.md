@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/coding-anime-gif-24565564" width="100"/>
+  <img src="https://media.gifdb.com/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="100"/>
 </div>
 <h1 align="center">Hi there, I'm 
   <a href="https://daniilshat.ru/" target="_blank">Vlad</a> 
