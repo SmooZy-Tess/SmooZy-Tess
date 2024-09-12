@@ -59,6 +59,8 @@
 
 ### 🥇 My stats and achievements :
 
+![SmooZy Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmooZy-Tess&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmooZy-Tess&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmooZy-Tess&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
