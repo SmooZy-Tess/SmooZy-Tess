@@ -24,6 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=SmooZy-Tess&style=flat-square&color=green" alt=""/>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SmooZy-Tess&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ---
 
 <div align="center">
@@ -40,9 +42,9 @@
 
 - :mailbox:How can you contact me if you want to: [![Telegram Badge](https://img.shields.io/badge/-SmooZy-blue?style=flat&logo=Telegram&logoColor=white)](t.me/VSmooZy)
 
-### :hammer_and_wrench: Languages and Tools :
-
 ---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
