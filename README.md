@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0946e016-0c44-4cfa-9325-eca6b963a879" width="700" height="400"/>
+  <img src="https://github.com/user-attachments/assets/0946e016-0c44-4cfa-9325-eca6b963a879" width="750" height="400"/>
 </div>
 
 ### :man_technologist: About Me :
